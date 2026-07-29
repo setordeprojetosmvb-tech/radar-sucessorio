@@ -1,0 +1,3 @@
+# Este projeto usa apenas a biblioteca padrão do Python (urllib, xml, json),
+# então não há dependências externas obrigatórias.
+# Este arquivo existe para o GitHub Actions não falhar no passo de instalação.
